@@ -1,1 +1,1 @@
-Descrição sobre mim
+Descrição sobre o projeto aqui.
